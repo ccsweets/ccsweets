@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![ccsweets's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccsweets)](https://github.com/ccsweets/github-readme-stats)
 <!--
 **ccsweets/ccsweets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
