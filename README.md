@@ -4,7 +4,7 @@
 <p align="center"><span style="font-size:20px; font-weight: bold;"><strong>Hi 👋, I'm ccsweets</strong></span></p>
 <p align="center"><span style="font-size:20px; font-weight: bold;"><strong>A passionate full-stack developer from South Korea</strong></span></p>
 
-<p align="left"><span style="font-size:18px; font-weight: bold;">Works</span></p>
+<p align="left"><span style="font-size:18px; font-weight: bold;"><strong>Works</strong></span></p>
 <p align="left">
 <a href="https://github.com/wigoai"><img src="http://www.icbdm.org/assets/images/Big_data_image.jpg" alt="bigdata" max-width="200" height="200"/> </a>
 <a href="https://github.com/wigoai"><img src="https://miro.medium.com/max/1400/0*8gb5Ir-2ROQne0WN" alt="text mining" max-width="200" height="200"/> </a>
