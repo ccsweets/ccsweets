@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ccsweets&fontSize=90)
 
-<strong align="center"><span style="font-size:20px; font-weight: bold;"><strong>Hi 👋, I'm ccsweets</span></strong></p>
+<p align="center"><span style="font-size:20px; font-weight: bold;"><strong>Hi 👋, I'm ccsweets</strong></span></p>
 <p align="center"><span style="font-size:20px; font-weight: bold;"><strong>A passionate full-stack developer from South Korea</strong></span></p>
 
 <p align="left"><span style="font-size:18px; font-weight: bold;">Works</span></p>
