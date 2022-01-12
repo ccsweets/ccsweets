@@ -4,7 +4,6 @@
 <p align="center"><span style="font-size:20px; font-weight: bold;">Hi 👋, I'm ccsweets</span></p>
 <p align="center"><span style="font-size:20px; font-weight: bold;">A passionate full-stack developer from South Korea</span></p>
 
-
 <p align="left"><span style="font-size:18px; font-weight: bold;">Works</span></p>
 <p align="left">
 <a href="https://github.com/wigoai"><img src="http://www.icbdm.org/assets/images/Big_data_image.jpg" alt="bigdata" max-width="200" height="200"/> </a>
@@ -67,3 +66,5 @@
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccsweets&show_icons=true&locale=en" alt="ccsweets" /></p-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccsweets&" alt="ccsweets" /></p>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tramp0102@gmail.com)](mailto:tramp0102@gmail.com)
